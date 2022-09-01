@@ -1,6 +1,6 @@
 <a href="https://serverninja.xyz"><img src="https://icons.iconarchive.com/icons/chrisl21/minecraft/128/3D-Mycelium-icon.png" title="SNMC Repo/Configs" alt="SNMC Repo"></a>
 
-# SNMC-price-guide
+# SNMC price guide
 
 > Repository Storing all of the current code used on SNMC's Price List.
 
