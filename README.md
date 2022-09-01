@@ -18,7 +18,7 @@
 
 - Make Sure to install the latest version of nodejs and npm following the instructions from the following guide:
 
-- make changes to the respective json files in the \_data folder
+- make changes to the respective json files in the `_data` folder
 
 - once done with the changes run the following from the main directory, if you need help determining where that is seek helpusing the FAQ:
 
