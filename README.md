@@ -36,4 +36,4 @@ npm run build:html
 
 ---
 
-- © 2022 <a href="https://merlinlcb.com" target="_blank"> Merlin.</a>.
+- © 2022 <a href="https://merlinlcb.com" target="_blank"> Merlin</a>.
