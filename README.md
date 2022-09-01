@@ -1,4 +1,6 @@
+<p align="center">
 <a href="https://serverninja.xyz"><img src="https://icons.iconarchive.com/icons/chrisl21/minecraft/128/3D-Mycelium-icon.png" title="SNMC Repo/Configs" alt="SNMC Repo"></a>
+</p>
 
 # SNMC price guide
 
