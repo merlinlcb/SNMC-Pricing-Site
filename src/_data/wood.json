@@ -1,0 +1,450 @@
+[
+    {
+        "material_id": "oak_log",
+        "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/e/e9/Oak_Log_%28UD%29_JE5_BE3.png",
+        "name": "oak log",
+        "url": "https://minecraft.fandom.com/wiki/Oak_Log",
+        "price": "8",
+        "stack": "64"
+    },
+    {
+        "material_id": "stripped_oak_log",
+        "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/e/eb/Stripped_Oak_Log_%28UD%29_JE2_BE2.png",
+        "name": "stripped oak log",
+        "url": "https://minecraft.fandom.com/wiki/Stripped_Oak_Log",
+        "price": "8",
+        "stack": "64"
+    },
+    {
+        "material_id": "oak_wood",
+        "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/1/1d/Oak_Wood_%28UD%29_JE5_BE2.png",
+        "name": "oak wood",
+        "url": "https://minecraft.fandom.com/wiki/Oak_Wood",
+        "price": "11",
+        "stack": "64"
+    },
+    {
+        "material_id": "stripped_oak_wood",
+        "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/6/60/Stripped_Oak_Wood_%28UD%29_JE1_BE1.png",
+        "name": "stripped oak wood",
+        "url": "https://minecraft.fandom.com/wiki/Stripped_Oak_Wood",
+        "price": "11",
+        "stack": "64"
+    },
+    {
+        "material_id": "oak_planks",
+        "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/3/37/Oak_Planks_JE6_BE3.png",
+        "name": "oak planks",
+        "url": "https://minecraft.fandom.com/wiki/Oak_Planks",
+        "price": "2",
+        "stack": "64"
+    },
+    {
+        "material_id": "oak_stairs",
+        "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/a/a0/Oak_Stairs_%28N%29_JE7_BE6.png",
+        "name": "oak stairs",
+        "url": "https://minecraft.fandom.com/wiki/Oak_Stairs",
+        "price": "3",
+        "stack": "64"
+    },
+    {
+        "material_id": "oak_slab",
+        "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/a/ac/Oak_Slab_JE5_BE2.png",
+        "name": "oak slab",
+        "url": "https://minecraft.fandom.com/wiki/Oak_Slab",
+        "price": "1",
+        "stack": "64"
+    },
+    {
+        "material_id": "spruce_log",
+        "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/f/f1/Spruce_Log_%28UD%29_JE5_BE3.png",
+        "name": "spruce log",
+        "url": "https://minecraft.fandom.com/wiki/Spruce_Log",
+        "price": "8",
+        "stack": "64"
+    },
+    {
+        "material_id": "stripped_spruce_log",
+        "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/0/09/Stripped_Spruce_Log_%28UD%29_JE2.png",
+        "name": "stripped spruce log",
+        "url": "https://minecraft.fandom.com/wiki/Stripped_Spruce_Log",
+        "price": "8",
+        "stack": "64"
+    },
+    {
+        "material_id": "spruce_wood",
+        "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/2/25/Spruce_Wood_%28UD%29_JE5_BE2.png",
+        "name": "spruce wood",
+        "url": "https://minecraft.fandom.com/wiki/Spruce_Wood",
+        "price": "11",
+        "stack": "64"
+    },
+    {
+        "material_id": "stripped_spruce_wood",
+        "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/2/2b/Stripped_Spruce_Wood_%28UD%29_JE1_BE1.png",
+        "name": "stripped spruce wood",
+        "url": "https://minecraft.fandom.com/wiki/Stripped_Spruce_Wood",
+        "price": "11",
+        "stack": "64"
+    },
+    {
+        "material_id": "spruce_planks",
+        "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/d/d4/Spruce_Planks_JE4_BE2.png",
+        "name": "spruce planks",
+        "url": "https://minecraft.fandom.com/wiki/Spruce_Planks",
+        "price": "2",
+        "stack": "64"
+    },
+    {
+        "material_id": "spruce_stairs",
+        "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/3/30/Spruce_Stairs_%28N%29_JE5_BE2.png",
+        "name": "spruce stairs",
+        "url": "https://minecraft.fandom.com/wiki/Spruce_Stairs",
+        "price": "3",
+        "stack": "64"
+    },
+    {
+        "material_id": "spruce_slab",
+        "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/a/a1/Spruce_Slab_JE4_BE2.png",
+        "name": "spruce slab",
+        "url": "https://minecraft.fandom.com/wiki/Spruce_Slab",
+        "price": "1",
+        "stack": "64"
+    },
+    {
+        "material_id": "birch_log",
+        "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/d/db/Birch_Log_%28UD%29_JE5_BE3.png",
+        "name": "birch log",
+        "url": "https://minecraft.fandom.com/wiki/Birch_Log",
+        "price": "8",
+        "stack": "64"
+    },
+    {
+        "material_id": "stripped_birch_log",
+        "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/7/7d/Stripped_Birch_Log_%28UD%29_JE2_BE2.png",
+        "name": "stripped birch log",
+        "url": "https://minecraft.fandom.com/wiki/Stripped_Birch_Log",
+        "price": "8",
+        "stack": "64"
+    },
+    {
+        "material_id": "birch_wood",
+        "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/3/3a/Birch_Wood_%28UD%29_JE5_BE2.png",
+        "name": "birch wood",
+        "url": "https://minecraft.fandom.com/wiki/Birch_Wood",
+        "price": "11",
+        "stack": "64"
+    },
+    {
+        "material_id": "stripped_birch_wood",
+        "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/7/78/Stripped_Birch_Wood_%28UD%29_JE1_BE1.png",
+        "name": "stripped birch wood",
+        "url": "https://minecraft.fandom.com/wiki/Stripped_Birch_Wood",
+        "price": "11",
+        "stack": "64"
+    },
+    {
+        "material_id": "birch_planks",
+        "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/c/cc/Birch_Planks_JE3_BE2.png",
+        "name": "birch planks",
+        "url": "https://minecraft.fandom.com/wiki/Birch_Planks",
+        "price": "2",
+        "stack": "64"
+    },
+    {
+        "material_id": "birch_stairs",
+        "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/1/1a/Birch_Stairs_%28N%29_JE4_BE2.png",
+        "name": "birch stairs",
+        "url": "https://minecraft.fandom.com/wiki/Birch_Stairs",
+        "price": "3",
+        "stack": "64"
+    },
+    {
+        "material_id": "birch_slab",
+        "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/1/1b/Birch_Slab_JE3_BE2.png",
+        "name": "birch slab",
+        "url": "https://minecraft.fandom.com/wiki/Birch_Slab",
+        "price": "1",
+        "stack": "64"
+    },
+    {
+        "material_id": "jungle_log",
+        "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/2/2a/Jungle_Log_%28UD%29_JE6_BE3.png",
+        "name": "jungle log",
+        "url": "https://minecraft.fandom.com/wiki/Jungle_Log",
+        "price": "8",
+        "stack": "64"
+    },
+    {
+        "material_id": "stripped_jungle_log",
+        "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/b/b4/Stripped_Jungle_Log_%28UD%29_JE4_BE3.png",
+        "name": "stripped jungle log",
+        "url": "https://minecraft.fandom.com/wiki/Stripped_Jungle_Log",
+        "price": "8",
+        "stack": "64"
+    },
+    {
+        "material_id": "jungle_wood",
+        "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/c/cf/Jungle_Wood_%28UD%29_JE4_BE2.png",
+        "name": "jungle wood",
+        "url": "https://minecraft.fandom.com/wiki/Jungle_Wood",
+        "price": "11",
+        "stack": "64"
+    },
+    {
+        "material_id": "stripped_jungle_wood",
+        "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/2/20/Stripped_Jungle_Wood_%28UD%29_JE1_BE1.png",
+        "name": "stripped jungle wood",
+        "url": "https://minecraft.fandom.com/wiki/Stripped_Jungle_Wood",
+        "price": "11",
+        "stack": "64"
+    },
+    {
+        "material_id": "jungle_planks",
+        "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/0/06/Jungle_Planks_JE3_BE2.png",
+        "name": "jungle planks",
+        "url": "https://minecraft.fandom.com/wiki/Jungle_Planks",
+        "price": "2",
+        "stack": "64"
+    },
+    {
+        "material_id": "jungle_stairs",
+        "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/3/39/Jungle_Stairs_%28N%29_JE4_BE2.png",
+        "name": "jungle stairs",
+        "url": "https://minecraft.fandom.com/wiki/Jungle_Stairs",
+        "price": "3",
+        "stack": "64"
+    },
+    {
+        "material_id": "jungle_slab",
+        "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/3/37/Jungle_Slab_JE3_BE2.png",
+        "name": "jungle slab",
+        "url": "https://minecraft.fandom.com/wiki/Jungle_Slab",
+        "price": "1",
+        "stack": "64"
+    },
+    {
+        "material_id": "acacia_log",
+        "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/f/fb/Acacia_Log_%28UD%29_JE5_BE3.png",
+        "name": "acacia log",
+        "url": "https://minecraft.fandom.com/wiki/Acacia_Log",
+        "price": "8",
+        "stack": "64"
+    },
+    {
+        "material_id": "stripped_acacia_log",
+        "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/3/3b/Stripped_Acacia_Log_%28UD%29_JE2_BE2.png",
+        "name": "stripped acacia log",
+        "url": "https://minecraft.fandom.com/wiki/Stripped_Acacia_Log",
+        "price": "8",
+        "stack": "64"
+    },
+    {
+        "material_id": "acacia_wood",
+        "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/8/8e/Acacia_Wood_%28UD%29_JE5_BE2.png",
+        "name": "acacia wood",
+        "url": "https://minecraft.fandom.com/wiki/Acacia_Wood",
+        "price": "11",
+        "stack": "64"
+    },
+    {
+        "material_id": "stripped_acacia_wood",
+        "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/2/24/Stripped_Acacia_Wood_%28UD%29_JE1_BE1.png",
+        "name": "stripped acacia wood",
+        "url": "https://minecraft.fandom.com/wiki/Stripped_Acacia_Wood",
+        "price": "11",
+        "stack": "64"
+    },
+    {
+        "material_id": "acacia_planks",
+        "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/5/56/Acacia_Planks_JE3_BE2.png",
+        "name": "acacia planks",
+        "url": "https://minecraft.fandom.com/wiki/Acacia_Planks",
+        "price": "2",
+        "stack": "64"
+    },
+    {
+        "material_id": "acacia_stairs",
+        "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/2/29/Acacia_Stairs_%28N%29_JE4_BE2.png",
+        "name": "acacia stairs",
+        "url": "https://minecraft.fandom.com/wiki/Acacia_Stairs",
+        "price": "3",
+        "stack": "64"
+    },
+    {
+        "material_id": "acacia_slab",
+        "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/8/8d/Acacia_Slab_JE3_BE2.png",
+        "name": "acacia slab",
+        "url": "https://minecraft.fandom.com/wiki/Acacia_Slab",
+        "price": "1",
+        "stack": "64"
+    },
+    {
+        "material_id": "dark_oak_log",
+        "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/c/c3/Dark_Oak_Log_%28UD%29_JE5_BE3.png",
+        "name": "dark oak log",
+        "url": "https://minecraft.fandom.com/wiki/Dark_Oak_Log",
+        "price": "8",
+        "stack": "64"
+    },
+    {
+        "material_id": "stripped_dark_oak_log",
+        "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/b/b0/Stripped_Dark_Oak_Log_%28UD%29_JE2.png",
+        "name": "stripped dark oak log",
+        "url": "https://minecraft.fandom.com/wiki/Stripped_Dark_Oak_Log",
+        "price": "8",
+        "stack": "64"
+    },
+    {
+        "material_id": "dark_oak_wood",
+        "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/5/5c/Dark_Oak_Wood_%28UD%29_JE5_BE2.png",
+        "name": "dark oak wood",
+        "url": "https://minecraft.fandom.com/wiki/Dark_Oak_Wood",
+        "price": "11",
+        "stack": "64"
+    },
+    {
+        "material_id": "stripped_dark_oak_wood",
+        "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/a/a3/Stripped_Dark_Oak_Wood_%28UD%29_JE1_BE1.png",
+        "name": "stripped dark oak wood",
+        "url": "https://minecraft.fandom.com/wiki/Stripped_Dark_Oak_Wood",
+        "price": "11",
+        "stack": "64"
+    },
+    {
+        "material_id": "dark_oak_planks",
+        "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/f/fe/Dark_Oak_Planks_JE3_BE2.png",
+        "name": "dark oak planks",
+        "url": "https://minecraft.fandom.com/wiki/Dark_Oak_Planks",
+        "price": "2",
+        "stack": "64"
+    },
+    {
+        "material_id": "dark_oak_stairs",
+        "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/e/ec/Dark_Oak_Stairs_%28N%29_JE4_BE2.png",
+        "name": "dark oak stairs",
+        "url": "https://minecraft.fandom.com/wiki/Dark_Oak_Stairs",
+        "price": "3",
+        "stack": "64"
+    },
+    {
+        "material_id": "dark_oak_slab",
+        "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/d/da/Dark_Oak_Slab_JE3_BE2.png",
+        "name": "dark oak slab",
+        "url": "https://minecraft.fandom.com/wiki/Dark_Oak_Slab",
+        "price": "1",
+        "stack": "64"
+    },
+    {
+        "material_id": "crimson_stem",
+        "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/1/19/Crimson_Stem_%28UD%29_JE1.gif",
+        "name": "crimson stem",
+        "url": "https://minecraft.fandom.com/wiki/Crimson_Stem",
+        "price": "10",
+        "stack": "64"
+    },
+    {
+        "material_id": "stripped_crimson_stem",
+        "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/8/8c/Stripped_Crimson_Stem_%28UD%29_JE2_BE1.png",
+        "name": "stripped crimson stem",
+        "url": "https://minecraft.fandom.com/wiki/Stripped_Crimson_Stem",
+        "price": "10",
+        "stack": "64"
+    },
+    {
+        "material_id": "crimson_hyphae",
+        "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/7/74/Crimson_Hyphae_%28UD%29_JE1.gif",
+        "name": "crimson hyphae",
+        "url": "https://minecraft.fandom.com/wiki/Crimson_Hyphae",
+        "price": "13",
+        "stack": "64"
+    },
+    {
+        "material_id": "stripped_crimson_hyphae",
+        "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/6/60/Stripped_Crimson_Hyphae_%28UD%29_JE1.png",
+        "name": "stripped crimson hyphae",
+        "url": "https://minecraft.fandom.com/wiki/Stripped_Crimson_Hyphae",
+        "price": "13",
+        "stack": "64"
+    },
+    {
+        "material_id": "crimson_planks",
+        "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/d/d9/Crimson_Planks_JE1_BE1.png",
+        "name": "crimson planks",
+        "url": "https://minecraft.fandom.com/wiki/Crimson_Planks",
+        "price": "3",
+        "stack": "64"
+    },
+    {
+        "material_id": "crimson_stairs",
+        "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/7/71/Crimson_Stairs_%28N%29_JE1_BE1.png",
+        "name": "crimson stairs",
+        "url": "https://minecraft.fandom.com/wiki/Crimson_Stairs",
+        "price": "5",
+        "stack": "64"
+    },
+    {
+        "material_id": "crimson_slab",
+        "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/a/a7/Crimson_Slab_JE1_BE1.png",
+        "name": "crimson slab",
+        "url": "https://minecraft.fandom.com/wiki/Crimson_Slab",
+        "price": "2",
+        "stack": "64"
+    },
+    {
+        "material_id": "warped_stem",
+        "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/e/e2/Warped_Stem_%28UD%29_JE1.gif",
+        "name": "warped stem",
+        "url": "https://minecraft.fandom.com/wiki/Warped_Stem",
+        "price": "10",
+        "stack": "64"
+    },
+    {
+        "material_id": "stripped_warped_stem",
+        "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/c/c8/Stripped_Warped_Stem_%28UD%29_JE2_BE1.png",
+        "name": "stripped warped stem",
+        "url": "https://minecraft.fandom.com/wiki/Stripped_Warped_Stem",
+        "price": "10",
+        "stack": "64"
+    },
+    {
+        "material_id": "warped_hyphae",
+        "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/b/ba/Warped_Hyphae_%28UD%29_JE1.gif",
+        "name": "warped hyphae",
+        "url": "https://minecraft.fandom.com/wiki/Warped_Hyphae",
+        "price": "13",
+        "stack": "64"
+    },
+    {
+        "material_id": "stripped_warped_hyphae",
+        "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/1/12/Stripped_Warped_Hyphae_%28UD%29_JE1.png",
+        "name": "stripped warped hyphae",
+        "url": "https://minecraft.fandom.com/wiki/Stripped_Warped_Hyphae",
+        "price": "13",
+        "stack": "64"
+    },
+    {
+        "material_id": "warped_planks",
+        "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/a/a5/Warped_Planks_JE1_BE1.png",
+        "name": "warped planks",
+        "url": "https://minecraft.fandom.com/wiki/Warped_Planks",
+        "price": "3",
+        "stack": "64"
+    },
+    {
+        "material_id": "warped_stairs",
+        "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/c/cc/Warped_Stairs_%28N%29_JE1_BE1.png",
+        "name": "warped stairs",
+        "url": "https://minecraft.fandom.com/wiki/Warped_Stairs",
+        "price": "5",
+        "stack": "64"
+    },
+    {
+        "material_id": "warped_slab",
+        "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/7/7b/Warped_Slab_JE1_BE1.png",
+        "name": "warped slab",
+        "url": "https://minecraft.fandom.com/wiki/Warped_Slab",
+        "price": "2",
+        "stack": "64"
+    }
+]

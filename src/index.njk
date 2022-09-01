@@ -1,0 +1,183 @@
+---
+layout: base.njk
+priceMultiplier: 1
+sellMargin: 0.30
+---
+
+{% import "macros.njk" as macro %}
+
+
+    <header id="top">
+        <nav class="navbar bg-dark text-white">
+            <form class="container-fluid justify-content-center">
+                <button class="btn btn-outline-success me-2" type="button">
+                    <a class="nav-link active" href="#ores">Ores</a>
+                </button>
+                <button class="btn btn-outline-success me-2" type="button">
+                    <a class="nav-link active" href="#stone">Stone</a>
+                </button>
+                <button class="btn btn-outline-success me-2" type="button">
+                    <a class="nav-link active" href="#earth">Earth</a>
+                </button>
+                <button class="btn btn-outline-success me-2" type="button">
+                    <a class="nav-link active" href="#sand">Sand</a>
+                </button>
+                <button class="btn btn-outline-success me-2" type="button">
+                    <a class="nav-link active" href="#wood">Wood</a>
+                </button>
+                <button class="btn btn-outline-success me-2" type="button">
+                    <a class="nav-link active" href="#drops">Mob drops</a>
+                </button>
+                <button class="btn btn-outline-success me-2" type="button">
+                    <a class="nav-link active" href="#food">Food</a>
+                </button>
+                <button class="btn btn-outline-success me-2" type="button">
+                    <a class="nav-link active" href="#utility">Utility</a>
+                </button>
+                </ul>
+        </nav>
+    </header>
+<main class="bg-secondary">
+    <div class="accordion accordion-flush" id="ores">
+        <div class="accordion-item">
+            <h2 class="accordion-header" id="headingOne">
+      <button class="accordion-button collapsed bg-dark text-success" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
+        Ores
+      </button>
+    </h2>
+        <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
+        <div class="col">
+            <div class="row bg-secondary mx-auto" data-masonry='{"percentPosition": true }'>
+                {% for item in ores %} 
+                    {% include "tbody.njk" %} 
+                {% endfor %}
+            </div>
+        </div>
+    </div>
+    </div>
+    </div>
+
+    <div class="accordion accordion-flush" id="stone">
+        <div class="accordion-item">
+            <h2 class="accordion-header" id="headingOne">
+      <button class="accordion-button collapsed bg-dark text-success" type="button" data-bs-toggle="collapse" data-bs-target="#StoneAccordian" aria-expanded="false" aria-controls="StoneAccordian">
+            Stone
+      </button>
+    </h2>
+        <div id="StoneAccordian" class="accordion-collapse collapse show" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
+        <div class="col">
+            <div class="row bg-secondary mx-auto" data-masonry='{"percentPosition": true }'>
+                {% for item in stone %}
+                        {% include "tbody.njk" %}
+                {% endfor %}
+            </div>
+        </div>
+    </div>
+
+    <div class="accordion accordion-flush" id="earth">
+        <div class="accordion-item">
+            <h2 class="accordion-header" id="headingOne">
+      <button class="accordion-button collapsed bg-dark text-success" type="button" data-bs-toggle="collapse" data-bs-target="#EarthAccordian" aria-expanded="false" aria-controls="EarthAccordian">
+            Earth
+      </button>
+    </h2>
+        <div id="EarthAccordian" class="accordion-collapse collapse show" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
+        <div class="col">
+            <div class="row bg-secondary mx-auto" data-masonry='{"percentPosition": true }'>
+                {% for item in earth %}
+                        {% include "tbody.njk" %}
+                {% endfor %}
+            </div>
+        </div>
+    </div>
+
+    <div class="accordion accordion-flush" id="sand">
+        <div class="accordion-item">
+            <h2 class="accordion-header" id="headingOne">
+      <button class="accordion-button collapsed bg-dark text-success" type="button" data-bs-toggle="collapse" data-bs-target="#SandAccordian" aria-expanded="false" aria-controls="SandAccordian">
+            Sand
+      </button>
+    </h2>
+        <div id="SandAccordian" class="accordion-collapse collapse show" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
+        <div class="col">
+            <div class="row bg-secondary mx-auto" data-masonry='{"percentPosition": true }'>
+                {% for item in sand %}
+                    {% include "tbody.njk" %}
+                {% endfor %}
+            </div>
+        </div>
+    </div>
+
+    <div class="accordion accordion-flush" id="wood">
+        <div class="accordion-item">
+            <h2 class="accordion-header" id="headingOne">
+      <button class="accordion-button collapsed bg-dark text-success" type="button" data-bs-toggle="collapse" data-bs-target="#WoodAccordian" aria-expanded="false" aria-controls="WoodAccordian">
+            Wood
+      </button>
+    </h2>
+        <div id="WoodAccordian" class="accordion-collapse collapse show" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
+        <div class="col">
+            <div class="row bg-secondary mx-auto" data-masonry='{"percentPosition": true }'>
+                {% for item in wood %}
+                    {% include "tbody.njk" %}
+                {% endfor %}
+            </div>
+        </div>
+    </div>
+
+    <div class="accordion accordion-flush" id="drops">
+        <div class="accordion-item">
+            <h2 class="accordion-header" id="headingOne">
+      <button class="accordion-button collapsed bg-dark text-success" type="button" data-bs-toggle="collapse" data-bs-target="#MobdropsAccordian" aria-expanded="false" aria-controls="MobdropsAccordian">
+            Mob drops
+      </button>
+    </h2>
+        <div id="MobdropsAccordian" class="accordion-collapse collapse show" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
+        <div class="col">
+            <div class="row bg-secondary mx-auto" data-masonry='{"percentPosition": true }'>
+                {% for item in drops %}
+                    {% include "tbody.njk" %}
+                {% endfor %}
+            </div>
+        </div>
+    </div>
+
+    <div class="accordion accordion-flush" id="food">
+        <div class="accordion-item">
+            <h2 class="accordion-header" id="headingOne">
+      <button class="accordion-button collapsed bg-dark text-success" type="button" data-bs-toggle="collapse" data-bs-target="#FoodAccordian" aria-expanded="false" aria-controls="FoodAccordian">
+            Food
+      </button>
+    </h2>
+        <div id="FoodAccordian" class="accordion-collapse collapse show" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
+        <div class="col">
+            <div class="row bg-secondary mx-auto" data-masonry='{"percentPosition": true }'>
+                {% for item in food %}
+                        {% include "tbody.njk" %}
+                {% endfor %}
+            </div>
+        </div>
+    </div>
+
+    <div class="accordion accordion-flush" id="utility">
+        <div class="accordion-item">
+            <h2 class="accordion-header" id="headingOne">
+      <button class="accordion-button bg-dark text-success" type="button" data-bs-toggle="collapse" data-bs-target="#UtilityAccordian" aria-expanded="false" aria-controls="UtilityAccordian">
+            Utility
+      </button>
+    </h2>
+        <div id="UtilityAccordian" class="accordion-collapse collapse show" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
+        <div class="col">
+            <div class="row bg-secondary mx-auto" data-masonry='{"percentPosition": true }'>
+                {% for item in utility %}
+                        {% include "tbody.njk" %}
+                {% endfor %}
+        </div>
+        </div>
+    </div>
+</main>
+<footer class="footer mt-auto py-3 bg-secondary">
+  <div class="container">
+    <div class="text-white">&copy; <span class="currentyear justify-content-left">2022</span>&nbsp<span class="text-white justify-content-right">Server Ninja MC</span></div>
+  </div>
+</footer>

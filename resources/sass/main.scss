@@ -1,0 +1,173 @@
+@import '_mixins';
+
+$colorA1: #f6c857;
+$colorA2: #f49b40;
+$colorA3: #e7501d;
+$colorB1: #a7c3a0;
+$colorB2: #789472;
+$colorB3: #49584b;
+$colorB4: #242c25;
+
+header,
+main,
+footer {
+    max-width: 800px
+}
+
+.hidden {
+    display: none;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.mb-0 {
+    margin-bottom: 0;
+}
+
+body {
+    margin: 4px;
+    font-family: helvetica, sans-serif;
+    @include mq(down,500px){
+        font-size: 80%;
+    }
+}
+
+.intro {
+    padding: 0 10px;
+}
+
+.quicknav {
+    box-sizing: border-box;
+    background: $colorB1;
+    padding: 10px;
+    color: white;
+    border: 2px solid white;
+    @include mq(down,500px){
+        padding: 5px 20px;
+    }
+
+    ul {
+        list-style: none;
+        margin: 0;
+        padding: 0;
+        display: flex;
+        flex-wrap: wrap;
+        text-align: center;
+    }
+
+    li {
+        flex: 1;
+    }
+
+    a {
+        color: $colorB4;
+    }
+}
+
+.skipnav {
+    background: $colorB1;
+    border: 2px solid white;
+    border-width: 0 2px 4px;
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    padding: 8px 12px;
+    font-weight: bold;
+
+    a {
+
+        color: $colorB4;
+    }
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+caption {
+    background: $colorB3;
+    color: white;
+    padding: 16px 8px;
+    font-weight: bold;
+    border: 2px solid white;
+    border-bottom: 0;
+    font-size: 20px;
+    @include mq(down,500px){
+        padding: 8px 4px;
+    }
+}
+thead th {
+    background: $colorB3;
+    color: $colorB1;
+}
+tbody th {
+    text-align: left;
+}
+td:first-child {
+    background: $colorB2;
+}
+td,th {
+    background: $colorB1;
+    padding: 3px 8px;
+    border: 2px solid white;
+    @include mq(down,500px){
+        padding: 2px 4px;
+    }
+}
+
+td img {
+    max-width: 50px;
+    display: block;
+    @include mq(down,500px){
+        width: 30px;
+    }
+}
+td a, th a {
+    color: $colorB4;
+    text-decoration: none;
+    font-weight: normal;
+}
+
+td a:hover, th a:hover {
+    color: $colorB3;
+    text-decoration: underline;
+}
+
+.header {
+    box-sizing: border-box;
+    background: $colorB3;
+    padding: 10px 40px;
+    color: white;
+    border: 2px solid white;
+    text-shadow: 2px 2px 2px black;
+    @include mq(down,500px){
+        padding: 5px 20px;
+    }
+    h1 {
+        font-size: 30px;
+    }
+}
+
+.pattern {
+    background-image: repeating-linear-gradient(-45deg,
+        $colorB2 0,
+        $colorB2 1px,
+        transparent 0,
+        transparent 12.75px);
+    background-size: 18px 18px;
+}
+
+footer {
+    box-sizing: border-box;
+    font-size: 14px;
+    color: $colorB1;
+    background: $colorB4;
+    padding: 10px;
+    border: 2px solid white;
+    a {
+        color: $colorB1;
+    }
+}
