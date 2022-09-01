@@ -10,7 +10,7 @@
 # Usage
 
 - Use your preferred IDE or Github Desktop to pull the Repository <a href="https://desktop.github.com/" target="_blank">**Github Desktop**</a>
-- Use your preferred IDE/Editor ex: <a href="https://atom.io/" target="_blank">**Atom.io**</a> <a href="https://www.jetbrains.com/idea/" target="_blank">**IntelliJ**</a> <a href="https://code.visualstudio.com/" target="_blank">**VSCode**</a>
+- Use your preferred IDE/Editor ex: <a href="https://atom.io/" target="_blank">**Atom.io**</a>, <a href="https://www.jetbrains.com/idea/" target="_blank">**IntelliJ**</a>, <a href="https://code.visualstudio.com/" target="_blank">**VSCode**</a>.
 - To Make Sure you have the most recent upload from production do a pull everytime you begin your work
 - commit any additional items added in the respective json files based on category
 
