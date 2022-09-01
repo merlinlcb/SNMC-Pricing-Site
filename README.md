@@ -4,7 +4,7 @@
 
 > Repository Storing all of the current code used on SNMC's Price List.
 
-[![Build Status](http://img.shields.io/travis/badges/badgerbadgerbadger.svg?style=flat-square)](https://travis-ci.org/badges/badgerbadgerbadger) [![Coverage Status](http://img.shields.io/coveralls/badges/badgerbadgerbadger.svg?style=flat-square)](https://coveralls.io/r/badges/badgerbadgerbadger)
+[![Build Status](http://img.shields.io/travis/badges/badgerbadgerbadger.svg?style=flat-square)](https://discord.serverninja.xyz/) [![Coverage Status](http://img.shields.io/coveralls/badges/badgerbadgerbadger.svg?style=flat-square)](https://discord.serverninja.xyz/)
 [![Build Status](https://img.shields.io/badge/SNMC-Live-blueviolet)](https://discord.serverninja.xyz/)
 
 # Usage
