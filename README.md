@@ -1,5 +1,5 @@
-# vz-price-guide
-VZ's economy price guide for Minecraft 1.16
+# SNMC-price-guide
+Pricing Guide for SNMC
 
 ## Serve
 
