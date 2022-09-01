@@ -25,8 +25,6 @@
 npm run build:html
 ```
 
-**YOU MUST USE THESE JAVA FLAGS OR MINECRAFT 1.16 SUFFERS TREMENDOUSLY DUE TO IMPROPER GC**
-
 # Developed By
 
 > Merlinlcb
